@@ -18,7 +18,7 @@ Por favor no envíe ninguna respuesta haciendo push ni commits a este repositori
 # ¿En qué consiste el ejercicio?
 1.	Por favor clone el repositorio.
 2.	Cree un código (R, Stata, Python, su preferencia) que haga:
-a. Lea la base empowerment_experiment_demo.dta.
-d. Identifique los tres brazos de tratamiento y las preguntas de empoderamiento empowerment_t y empowerment_c para el brazo 1 y 3, respectivamente.
-e. Cree los marcadores de empoderamiento empowerment_a (1 y 2) para el segundo brazo, procesando la información contenida en los audios. Para esto, puede hacer uso del repositorio https://github.com/ribt/dtmf-decoder.git o cualquier decodificador de audio de su preferencia. 
-f.Cree un codigo (Phyton, R, Stata o el lenguaje de su preferencia) que muestre los pasos utilizandos para la decodificación del audio, la creación de la base de datos estructurada con las respectivas respuestas y el pegue de las mismas con la base de datos empowerment_experiment_demo.dta.
+    a. Lea la base empowerment_experiment_demo.dta.
+    d. Identifique los tres brazos de tratamiento y las preguntas de empoderamiento empowerment_t y empowerment_c para el brazo 1 y 3, respectivamente.
+    e. Cree los marcadores de empoderamiento empowerment_a (1 y 2) para el segundo brazo, procesando la información contenida en los audios. Para esto, puede hacer uso del repositorio https://github.com/ribt/dtmf-decoder.git o cualquier decodificador de audio de su preferencia. 
+    f.Cree un codigo (Phyton, R, Stata o el lenguaje de su preferencia) que muestre los pasos utilizandos para la decodificación del audio, la creación de la base de datos estructurada con las respectivas respuestas y el pegue de las mismas con la base de datos empowerment_experiment_demo.dta.
