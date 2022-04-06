@@ -4,16 +4,16 @@ La data comprende información estructurada y no estructurada de una pequeña en
 La base de datos de la encuesta se encuentra en la carpeta Data/empowerment_experiment_demo.dta. Los audios del segundo brazo de la encuesta se encuentran en la carpeta Audios 
 Por favor no envíe ninguna respuesta haciendo push ni commits a este repositorio pues otros candidatos podrían ver su trabajo. 
 # Codebook
-caseid “numero de identificación de la encuestada"
-treatment "brazo de tratamiento asignado" "1=directo/2=marcación/3=palabra codigo"
-home_11 " ¿Quién es el jefe de hogar en su hogar?"
-home_12 " ¿Cuál es el nivel de educación más alto que Ud. aprobó?" 
-home_17 " ¿Cuál es su estado civil actual?" 
-empowerment_1c "¿Se le permite ir sola para reunirse con sus amiga y amigos por cualquier razón, para conversar o almorzar? Brazo3" "Yes=1/No=2"
-empowerment_1t  "¿Tiene que pedir permiso para comprar frutas o verduras, medicamentos o suministros personales?" "Yes=1/No=2 Brazo1"
-empowerment_2c “¿Se le permite ir sola para reunirse con sus amiga y amigos por cualquier razón, para conversar o almorzar? Brazo3" "Yes=1/No=2"
-empowerment_2t  "¿Tiene que pedir permiso para comprar frutas o verduras, medicamentos o suministros personales?"  "Yes=1/No=2 Brazo1"
-file_audio_empowerment "nombre del audio al que corresponde la encuesta" 
+``` caseid “numero de identificación de la encuestada"
+    treatment "brazo de tratamiento asignado" "1=directo/2=marcación/3=palabra codigo"
+    home_11 " ¿Quién es el jefe de hogar en su hogar?"
+    home_12 " ¿Cuál es el nivel de educación más alto que Ud. aprobó?" 
+    home_17 " ¿Cuál es su estado civil actual?" 
+    empowerment_1c "¿Se le permite ir sola para reunirse con sus amiga y amigos por cualquier razón, para conversar o almorzar? Brazo3" "Yes=1/No=2"
+    empowerment_1t  "¿Tiene que pedir permiso para comprar frutas o verduras, medicamentos o suministros personales?" "Yes=1/No=2 Brazo1"
+    empowerment_2c “¿Se le permite ir sola para reunirse con sus amiga y amigos por cualquier razón, para conversar o almorzar? Brazo3" "Yes=1/No=2"
+    empowerment_2t  "¿Tiene que pedir permiso para comprar frutas o verduras, medicamentos o suministros personales?"  "Yes=1/No=2 Brazo1"
+    file_audio_empowerment "nombre del audio al que corresponde la encuesta" 
 
 # ¿En qué consiste el ejercicio?
 1.	Por favor clone el repositorio.
