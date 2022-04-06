@@ -14,7 +14,7 @@ Por favor no envíe ninguna respuesta haciendo push ni commits a este repositori
     empowerment_2c “¿Se le permite ir sola para reunirse con sus amiga y amigos por cualquier razón, para conversar o almorzar? Brazo3" "Yes=1/No=2"
     empowerment_2t  "¿Tiene que pedir permiso para comprar frutas o verduras, medicamentos o suministros personales?"  "Yes=1/No=2 Brazo1"
     file_audio_empowerment "nombre del audio al que corresponde la encuesta" 
-
+```
 # ¿En qué consiste el ejercicio?
 1.	Por favor clone el repositorio.
 2.	Cree un código (R, Stata, Python, su preferencia) que haga:
